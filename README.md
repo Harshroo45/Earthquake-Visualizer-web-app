@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/deebc380-ae99-470d-9b4b-62a4c2174ee9" /># 🌍 Earthquake Visualizer Web App
+# 🌍 Earthquake Visualizer Web App
 
 **Candidate ID:** Naukri1025  
 **Submitted To:** Aganitha Cognitive Solutions — Full Stack Developer Take-Home Challenge  
@@ -77,4 +77,5 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
 
