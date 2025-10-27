@@ -75,29 +75,3 @@ npm install
 
 # 4. Start the development server
 npm run dev
-```
-
-**Folder Structure: **
-earthquake-visualizer/
-│
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── EarthquakeMap.jsx
-│   │   ├── Legend.jsx
-│   │   ├── SearchBar.jsx
-│   │   ├── responsive.css
-│   │   └── ...
-│   ├── utils/
-│   │   └── viewport.js
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-
-**Developed with ❤️ by Harshal Khadatare**
-
